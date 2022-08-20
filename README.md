@@ -18,18 +18,6 @@
 
 </details>
 
-### Completion Instructions
-
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `index.js`
-- `index.css`
-</details>
-
 ### Resources
 
 <details>
